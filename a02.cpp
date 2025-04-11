@@ -1,7 +1,7 @@
 /******************************************************************************
 # Author:           Ari P.
 # Assignment:       Assignment 2
-# Date:             April 10, 2025
+# Date:             April 11, 2025
 # Description:      This program will calculate the calory count and number of 
                     servings eaten for a given amount of Oreos consumed.
 # Input:            cookiesEaten (int)
