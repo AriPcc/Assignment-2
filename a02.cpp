@@ -40,7 +40,8 @@ int main () {
     caloriesEaten = servingsEaten * SERVING_CALORIES;
 
     // Print the results
-    cout << cookiesEaten << " Oreos equals " << servingsEaten << " servings!" << endl;
+    cout << cookiesEaten << " Oreos equals " << servingsEaten << " servings!" \
+<< endl;
     cout << "You consumed " << caloriesEaten << " calories." << endl << endl;
 
     // Print a goodbye message
